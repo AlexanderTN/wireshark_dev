@@ -1,0 +1,3 @@
+[submodule "wireshark"]
+	path = wireshark
+	url = git@github.com:wireshark/wireshark.git
